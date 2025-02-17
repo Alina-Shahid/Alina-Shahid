@@ -10,7 +10,10 @@ I am currently pursuing a Bachelor of Science degree in Computer Science.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alina-Shahid&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alina-Shahid&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Shahid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Shahid&count_private=true&include_all_commits=true&cache_seconds=30&layout=compact&hide_border=false&theme=radical&v=2)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alina-Shahid&theme=radical&no-frame=false&no-bg=false&margin-w=4)

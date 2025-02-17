@@ -15,7 +15,8 @@ I am currently pursuing a Bachelor of Science degree in Computer Science.
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alina-Shahid&theme=radical)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alina-Shahid&theme=radical)
+
+
 ### 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -29,6 +30,8 @@ I am currently pursuing a Bachelor of Science degree in Computer Science.
 ![](https://github-profile-trophy.vercel.app/?username=Alina-Shahid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alina-Shahid&icon=1&color=10)](https://visitcount.itsvg.in)
+## 🚀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Alina-Shahid&color=blue&style=flat-square)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

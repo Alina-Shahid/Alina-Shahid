@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Bachelor of Science degree in Computer Science.
+Hi, I'm a Computer Science student at the University of Alberta with experience in full-stack development, cloud infrastructure, and CI/CD automation. I’ve worked with C#, Python, JavaScript, Azure, and Kafka to build scalable and user-focused solutions. Always eager to learn and create meaningful tech.
 
 
 ## 🌐 Socials:
